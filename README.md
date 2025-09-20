@@ -9,7 +9,13 @@ This project was designed in easyEDA.
 ![schemtic](/images/sch.png)
 
 # BOM:
-
+| ITEM     | COST  | Notes      |
+| -------- | ----- | ---------- |
+| PCB      | 2     |            |
+| PCBA     | 18.14 |            |
+| Shipping | 12.16 |            |
+| Discount | \-9   | SMT coupon |
+| Total    | 23.3  | USD        |
 
 PCBA items:
 I havent used the last 2 USBs because I have them at my home and I can solder myself and save on extended parts costs
