@@ -18,3 +18,5 @@ here are some images:
 ![3d1](/images/3d1.png)
 ![3d2](/images/3d2.png)
 ![schemtic](/images/sch.png)
+
+This was a tutorial project!
