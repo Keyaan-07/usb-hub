@@ -20,3 +20,7 @@ here are some images:
 ![schemtic](/images/sch.png)
 
 This was a tutorial project!
+
+# sept 28 '25
+
+Clay told me to add some new things, so i did it, check out the new images!
